@@ -1,2 +1,0 @@
- By clicking "Releases" item on the right panel, you will see every version.
-You may download your favorite MultiPar package at "Assets" item.
